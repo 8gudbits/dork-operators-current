@@ -25,6 +25,8 @@ A list of validated Google dork operators updated on October 2025.<br>
 | ext      | Same as filetype                                    | ext:<type>      | ext:pdf             |
 | index of | Search for direct downloads (not a formal operator) | index of:<term> | index of:mp4 videos |
 
+For a full list of officially indexable file types supported by Google Search, see [Google's documentation](https://developers.google.com/search/docs/crawling-indexing/indexable-file-types).
+
 ## Date & Range Dorks
 
 | Operator | Description                                                  | Syntax              | Example           |
